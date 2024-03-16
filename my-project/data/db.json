@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "26c2",
+      "age": "12",
+      "name": "John",
+      "fullname": "John Doe",
+      "country": "America"
+    },
+    {
+      "id": "b60b",
+      "age": "11",
+      "name": "Malika",
+      "fullname": "Malika Shomurodova",
+      "country": "Uzbekistan"
+    },
+    {
+      "id": "812f",
+      "age": "20",
+      "name": "Usmon",
+      "fullname": "Usmon Nosir",
+      "country": "Uzbekistan"
+    },
+    {
+      "id": "28af",
+      "age": "70",
+      "name": "Putin",
+      "fullname": "Vladimir Putin",
+      "country": "Russia"
+    },
+    {
+      "id": "7c5b",
+      "age": "30",
+      "name": "Martin",
+      "fullname": "Martin Leo",
+      "country": "Australia"
+    },
+    {
+      "id": "9c41",
+      "age": "20",
+      "name": "Alisher",
+      "fullname": "Navioy",
+      "country": "Uzbekistan"
+    }
+  ]
+}
